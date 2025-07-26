@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2025-07-18 12:13:40
+## 更新：2025-07-26 11:47:52
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://c.chenx2.top/link/YOWfiMmR8cprzAtk?clash=1
+## 链接：https://c.chenx2.top/link/2ut4FvVjfRiGJbuj?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,31 +34,31 @@ secret: ''
 
 
 proxies:
-  - {"name":"①香港","type":"vmess","server":"3.achenxty.top","port":11603,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"②香港","type":"vmess","server":"4.achenxty.top","port":11604,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"③香港","type":"vmess","server":"5.achenxty.top","port":11605,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"④香港","type":"vmess","server":"6.achenxty.top","port":11606,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑤香港","type":"vmess","server":"7.achenxty.top","port":11607,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑥日本","type":"vmess","server":"8.achenxty.top","port":11608,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑦日本","type":"vmess","server":"9.achenxty.top","port":11609,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑧日本","type":"vmess","server":"10.achenxty.top","port":11610,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑨日本","type":"vmess","server":"11.achenxty.top","port":11611,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑩日本","type":"vmess","server":"12.achenxty.top","port":11612,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑪新加坡","type":"vmess","server":"13.achenxty.top","port":11613,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑫新加坡","type":"vmess","server":"14.achenxty.top","port":11614,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑬新加坡","type":"vmess","server":"15.achenxty.top","port":11615,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑭新加坡","type":"vmess","server":"16.achenxty.top","port":11616,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑮新加坡","type":"vmess","server":"17.achenxty.top","port":11617,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑯美国","type":"vmess","server":"18.achenxty.top","port":11618,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑰美国","type":"vmess","server":"19.achenxty.top","port":11619,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑱美国","type":"vmess","server":"20.achenxty.top","port":11620,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑲美国","type":"vmess","server":"21.achenxty.top","port":11621,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"⑳美国","type":"vmess","server":"22.achenxty.top","port":11622,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"㉑台湾","type":"vmess","server":"23.achenxty.top","port":11623,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"㉒台湾","type":"vmess","server":"24.achenxty.top","port":11624,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"㉓台湾","type":"vmess","server":"25.achenxty.top","port":11625,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"㉔台湾","type":"vmess","server":"26.achenxty.top","port":11626,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"㉕台湾","type":"vmess","server":"27.achenxty.top","port":11627,"uuid":"89d7b164-a81e-399d-ba35-ce1d723be107","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"①香港","type":"vmess","server":"3.achenxty.top","port":11603,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"②香港","type":"vmess","server":"4.achenxty.top","port":11604,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"③香港","type":"vmess","server":"5.achenxty.top","port":11605,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"④香港","type":"vmess","server":"6.achenxty.top","port":11606,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑤香港","type":"vmess","server":"7.achenxty.top","port":11607,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑥日本","type":"vmess","server":"8.achenxty.top","port":11608,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑦日本","type":"vmess","server":"9.achenxty.top","port":11609,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑧日本","type":"vmess","server":"10.achenxty.top","port":11610,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑨日本","type":"vmess","server":"11.achenxty.top","port":11611,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑩日本","type":"vmess","server":"12.achenxty.top","port":11612,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑪新加坡","type":"vmess","server":"13.achenxty.top","port":11613,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑫新加坡","type":"vmess","server":"14.achenxty.top","port":11614,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑬新加坡","type":"vmess","server":"15.achenxty.top","port":11615,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑭新加坡","type":"vmess","server":"16.achenxty.top","port":11616,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑮新加坡","type":"vmess","server":"17.achenxty.top","port":11617,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑯美国","type":"vmess","server":"18.achenxty.top","port":11618,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑰美国","type":"vmess","server":"19.achenxty.top","port":11619,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑱美国","type":"vmess","server":"20.achenxty.top","port":11620,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑲美国","type":"vmess","server":"21.achenxty.top","port":11621,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"⑳美国","type":"vmess","server":"22.achenxty.top","port":11622,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"㉑台湾","type":"vmess","server":"23.achenxty.top","port":11623,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"㉒台湾","type":"vmess","server":"24.achenxty.top","port":11624,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"㉓台湾","type":"vmess","server":"25.achenxty.top","port":11625,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"㉔台湾","type":"vmess","server":"26.achenxty.top","port":11626,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"㉕台湾","type":"vmess","server":"27.achenxty.top","port":11627,"uuid":"b0c257bb-6955-35f8-babd-8dc11f901a1e","alterId":0,"cipher":"auto","udp":true}
 
 proxy-groups:
 -
